@@ -3,3 +3,4 @@
 *.pdf
 */.pdf
 .Rapp.history
+.Rproj.user
